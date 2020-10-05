@@ -1,1 +1,1 @@
-# sandy_notebooks
+# sandy notebooks
