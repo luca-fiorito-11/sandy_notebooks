@@ -7,3 +7,6 @@ Work with nuclear data files in ENDF-6 format
 
 Work with covariance data
 - [Create a custom covariance matrix for cross sections](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/custom_covariance_matrix.ipynb)
+
+Testing JEFF-4.0
+- [Delayed nubar in Pu-237](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_jeff40_pu237_nubar.ipynb) 
