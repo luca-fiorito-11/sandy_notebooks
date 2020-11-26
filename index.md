@@ -11,3 +11,4 @@ Work with covariance data
 
 Testing JEFF-4.0
 - [Delayed nubar in Pu-237](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_jeff40_pu237_nubar.ipynb)
+- [Check differences in FYs between the JEFF-3.3 and JEFF-3.1.1 evaluations](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_fy_diff_jeff33_vs_jeff311.ipynb)
