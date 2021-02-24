@@ -12,3 +12,4 @@ Work with covariance data
 Testing JEFF-4.0
 - [Delayed nubar in Pu-237](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_jeff40_pu237_nubar.ipynb)
 - [Check differences in FYs between the JEFF-3.3 and JEFF-3.1.1 evaluations](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_fy_diff_jeff33_vs_jeff311.ipynb)
+- [Analysis of decay energies for Cs-137/Ba-137m and Sr-90/Y-90 decay chains](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_decay_heat_sr90_cs137.ipynb)
