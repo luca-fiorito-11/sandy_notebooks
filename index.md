@@ -9,7 +9,7 @@
 - [Interact with energy distributions of emitted neutrons](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_pfns.ipynb)
 
 ## Apply perturbations
-- [Apply a custom perturbation to a given cross section](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_perturb_pu9_wims_grid.ipynb)
+- [Apply custom perturbations to a given cross section using the WIMS69 energy grid](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_perturb_pu9_wims_grid.ipynb)
 - [Apply a perturbation to a cross section over the entire energy domain](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_perturbation_cross_section_whole_energy.ipynb)
 
 ## Work with covariance data
