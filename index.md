@@ -35,5 +35,6 @@
 ### Fission yields and decay data
 - [Check differences in FYs between the JEFF-3.3 and JEFF-3.1.1 evaluations](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_fy_diff_jeff33_vs_jeff311.ipynb)
 - [Plot _England and Rider_ evaluated chain fission yields](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_chain_fy.ipynb)
+- [Retrieve cumulative fission yields for Cs, Sr and Nd from different libraries](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_u5_pu9_fys.ipynb)
 ### Radioactive decay data
 - [Analysis of decay energies for Cs-137/Ba-137m and Sr-90/Y-90 decay chains](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_decay_heat_sr90_cs137.ipynb)
