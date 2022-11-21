@@ -23,6 +23,7 @@
 - [Build covariance matrix from xs reconstruction rules](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_mf33mt51_not_mf33mt4.ipynb)
 - [Apply covariance matrix to i.i.d. samples](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_apply_covariance_to_samples.ipynb)
 - [Sampling from lognormal multivariate distribution](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_sampling_lognormal.ipynb)
+- [Sampling procedure: fission yields](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_IFY_sampling_procedure.ipynb)
 
 ## Analysis of nuclear data libraries
 
@@ -30,7 +31,7 @@
 - [Delayed nubar in Pu-237](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_jeff40_pu237_nubar.ipynb)
 ### Resonance parameters
  - [Preliminary test of section MF2](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/mf2_tests.ipynb)
- - [Preliminary test of section MF2](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/Mf32_tests.ipynb)
+ - [Preliminary test of section MF32](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/Mf32_tests.ipynb)
 ### Angular distributions
 - [Angular distribution for elastic scattering of U-238](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_plot_mf4_u238.ipynb)
 ### Fission yields and decay data
