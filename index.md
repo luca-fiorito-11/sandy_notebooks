@@ -29,6 +29,8 @@
 - [Sampling procedure: produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
 - [Sampling procedure: fission yields](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_IFY_sampling_procedure.ipynb)
 
+### Regression and analysis of variance
+- [Multiple linear regression for two correlated variables](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_bivariate.ipynb)
 
 ## Analysis of nuclear data libraries
 
