@@ -32,6 +32,7 @@
 ### Regression and analysis of variance
 - [Multiple linear regression for two correlated variables](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_bivariate.ipynb)
 - [Multiple linear regression for two correlated variables standardized with SVD](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_svd.ipynb)
+- [Multiple linear regression using SVD (least squares) for a real covariance matrix](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_svd_realcov.ipynb)
 
 ## Analysis of nuclear data libraries
 
