@@ -34,6 +34,7 @@
 - [Multiple linear regression for two correlated variables standardized with SVD](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_svd.ipynb)
 - [Multiple linear regression using SVD (least squares) for a real covariance matrix](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_svd_realcov.ipynb)
 - [Multiple linear regression using SVD (least squares) for a fast system (Godiva)](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_svd_realsens.ipynb)
+- [Multiple linear regression using SVD (least squares) for a thermal system (UAM single pin)](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_svd_realsens_uam.ipynb)
 
 ## Analysis of nuclear data libraries
 
