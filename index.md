@@ -25,6 +25,8 @@
 - [Apply covariance matrix to i.i.d. samples](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_apply_covariance_to_samples.ipynb)
 - [Sampling from lognormal multivariate distribution](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_sampling_lognormal.ipynb)
 
+### Consistency checks
+- [Perturbations to redundant cross section are consistently distributed to partial components](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_pert_mf4_redundant.ipynb)
 ### Applications
 - [Sampling procedure: produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
 - [Sampling procedure: fission yields](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_IFY_sampling_procedure.ipynb)
