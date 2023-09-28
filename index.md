@@ -25,7 +25,7 @@
 - [Apply covariance matrix to i.i.d. samples](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_apply_covariance_to_samples.ipynb)
 - [Sampling from lognormal multivariate distribution](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_sampling_lognormal.ipynb)
 - [Normal vs lognormal sampling: the U-235 case](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_lognorm_sampling_u5.ipynb)
-- [How lognormal samples react to large uncertaninties](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_check_log_sampling_magnitude.ipynb)
+- [How lognormal samples react to large uncertainties](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_check_log_sampling_magnitude.ipynb)
 
 ### Consistency checks
 - [Perturbations to redundant cross section are consistently distributed to partial components](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_pert_mf4_redundant.ipynb)
