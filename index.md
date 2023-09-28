@@ -32,7 +32,8 @@
 - [Consistency between PENDF/ENDF-6(nubar) and perturbations: the U-235 case](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_consistency_pert_pendf_U5.ipynb)
 
 ### Applications
-- [Sampling procedure: produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
+- [Direct sampling procedure: produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
+- [2-step sampling procedure](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files_2steps.ipynb)
 - [Sampling procedure: fission yields](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_IFY_sampling_procedure.ipynb)
 
 ### Regression and analysis of variance
