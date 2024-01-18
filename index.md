@@ -34,7 +34,9 @@
 ### Applications
 - [Direct sampling procedure: produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
 - [2-step sampling procedure](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files_2steps.ipynb)
-- [Sampling procedure: fission yields](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_IFY_sampling_procedure.ipynb)
+- [FY Sampling: create perturbed FY files (only variance, all energies)](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify.ipynb)
+- [FY sampling: create perturbed FY files with ad-hoc covariance matrix (all energies)](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_with_cov.ipynb)
+- [FY sampling: create perturbed FY files using CEA conservative (C1) evaluation](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_u235th_cea_c1.ipynb)
 
 ### Regression and analysis of variance
 - [Multiple linear regression for two correlated variables](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_bivariate.ipynb)
