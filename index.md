@@ -33,12 +33,13 @@
 - [Consistency between PENDF/ENDF-6(nubar) and perturbations: the U-235 case](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_consistency_pert_pendf_U5.ipynb)
 
 ### Applications
-- [Direct sampling procedure: produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
-- [2-step sampling procedure](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files_2steps.ipynb)
+- [XS sampling: direct sampling procedure to produce random ENDF-6 / ACE files](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files.ipynb)
+- [XS sampling: 2-step sampling procedure](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_random_files_2steps.ipynb)
 - [FY Sampling: create perturbed FY files (only variance, all energies)](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify.ipynb)
 - [FY sampling: create perturbed FY files with ad-hoc covariance matrix (all energies)](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_with_cov.ipynb)
 - [FY sampling: create perturbed FY files using CEA conservative evaluation for U-235 thermal fission](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_u235th_cea_c1.ipynb)
 - [FY sampling: create perturbed FY files using CEA conservative evaluation for Pu-239 thermal fission](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_pu239th_cea.ipynb)
+- [RDD sampling: create perturbed radioactive decay data files for JEFF-3.3](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_decay_data.ipynb)
 
 ### Regression and analysis of variance
 - [Multiple linear regression for two correlated variables](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_bivariate.ipynb)
