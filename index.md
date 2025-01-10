@@ -40,6 +40,7 @@
 - [FY sampling: create perturbed FY files using CEA conservative evaluation for U-235 thermal fission](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_u235th_cea_c1.ipynb)
 - [FY sampling: create perturbed FY files using CEA conservative evaluation for Pu-239 thermal fission](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_ify_pu239th_cea.ipynb)
 - [RDD sampling: create perturbed radioactive decay data files for JEFF-3.3](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_decay_data.ipynb)
+- [PFNS sampling: create and test perturbed energy distributions for U235 using JEFF-3.3](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_sampling_mf35_testing.ipynb)
 
 ### Regression and analysis of variance
 - [Multiple linear regression for two correlated variables](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_regression_correlated_bivariate.ipynb)
