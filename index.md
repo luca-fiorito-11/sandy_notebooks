@@ -9,6 +9,8 @@
 ### Apply perturbations
 - [Apply custom perturbations to a given cross section using the WIMS69 energy grid](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_perturb_pu9_wims_grid.ipynb)
 - [Apply a perturbation to a cross section over the entire energy domain](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_perturbation_cross_section_whole_energy.ipynb)
+- [How the xs reconstruction tolerance affects the xs perturbation](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_parametric_err_perturbation.ipynb)
+- [Perturbing before or after BROADR?](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_perturbation_after_broadr.ipynb)
 
 ### Work with covariance data
 - [Create a custom covariance matrix for cross sections](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/custom_covariance_matrix.ipynb)
