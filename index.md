@@ -5,6 +5,7 @@
 
 ### Collect and process nuclear data files with NJOY
 - [Run NJOY to produce PENDF/ACE files](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/notebook_run_njoy.ipynb)
+- [Processing PFNS covariance data in MF35 using NJOY](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_processing_mf35.ipynb)
 
 ### Apply perturbations
 - [Apply custom perturbations to a given cross section using the WIMS69 energy grid](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_perturb_pu9_wims_grid.ipynb)
