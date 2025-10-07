@@ -14,9 +14,10 @@
 - [Perturbing before or after BROADR?](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_perturbation_after_broadr.ipynb)
 
 ### Work with covariance data
-- [Create a custom covariance matrix for cross sections](https://nbviewer.jupyter.org/github/luca-fiorito-11/sandy_notebooks/blob/master/custom_covariance_matrix.ipynb)
-- [Covariance matrix with reaction cross terms](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_process_pu240_xscov.ipynb)
-- [Create correlations between decay branching ratios based on conservation laws](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_add_correlations_to_sampled_br.ipynb)
+- [Create a custom covariance matrix for cross sections](https://github.com/luca-fiorito-11/sandy_notebooks/blob/master/notebook_custom_covariance_matrix.ipynb)
+- [Use NJOY to produce a covariance matrix with reaction cross terms](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_process_pu240_xscov.ipynb)
+- [Create correlations between decay branching ratios based on conservation laws](https://github.vom/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_add_correlations_to_sampled_br.ipynb)
+- [Produce multi-group xs covariance matrix with NJOY with custom group structure](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_produce_mg_cov.ipynb)
 
 
 ## Stochastic sampling
@@ -62,7 +63,8 @@
  - [Preliminary test of section MF32](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/Mf32_tests.ipynb)
 
 ### Cross section
- - [Cross section uncertainty data of Pb-208](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_pb208_uncertainty_data.ipynb)
+ - [Cross section uncertainty data of Pb-208](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_pb208_uncertainty_data.ipynb)
+ - [Extract and compare Pb206 cross sections in multigroup format from different libraries](https://github.com/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks_v1.1/notebook_multigroup_xs_comparison.ipynb)
 
 ### Angular distributions
 - [Angular distribution for elastic scattering of U-238](https://nbviewer.org/github/luca-fiorito-11/sandy_notebooks/blob/executed_notebooks/notebook_plot_mf4_u238.ipynb)
